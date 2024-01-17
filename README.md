@@ -1,4 +1,4 @@
-# visualization application of Nissin Foods products
+# Visualization application of Nissin Foods products
 ### This application visualizes the nutrientional content of Nissin Foods producsts in a radar chart.
 ![visualization application image](https://github.com/Zeroron-255/nissin-visualization/assets/98586574/650ad6ca-db61-4f87-990e-514d73eb3372)
 
