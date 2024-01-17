@@ -1,0 +1,14 @@
+fix_nutrient: https://www.otsuka.co.jp/cmt/nutrition/1day/ を参考に作成した、1日に必要な栄養素を集めたJSON
+
+fix_information: scraping.pyを用いて取得したデータを、一部手動で修正したJSON
+修正したもの
+・https://www.nissin.com/jp/products/items/10092
+・https://www.nissin.com/jp/products/items/10859
+・https://www.nissin.com/jp/products/items/11169
+・https://www.nissin.com/jp/products/items/12216
+
+mongo_print.py: mongodbの中身を確認するためのプログラム
+
+mongo.py: fix_nutrientとfix_informationをmongodbに入れるプログラム
+
+scraping.py: 日清食品のサイトからスクレイピングをするプログラム

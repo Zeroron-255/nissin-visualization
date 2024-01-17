@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <title>Smoothed D3.js Radar Chart</title>
+
+  <!-- cssファイル -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/select-multiple.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <!-- jsファイル -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <script src="js/jquery.select-multiple.js"></script>
+  <script src="js/jquery.quicksearch.js"></script>
+
+  <!-- Google fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+  <!-- D3.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 11px;
+      font-weight: 300;
+      fill: #242424;
+      text-align: center;
+      text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+      cursor: default;
+    }
+
+    .legend {
+      font-family: 'Raleway', sans-serif;
+      fill: #333333;
+    }
+
+    .tooltip {
+      fill: #333333;
+    }
+  </style>
+
+</head>
+
+<body>
+  <header>
+    <h1 class="">日清食品 栄養成分可視化 サイト</h1>
+  </header>
+
+  <body>
+    <select id="multiple" class="multiple" multiple="multiple">
+    </select><!-- #multiple -->
+    <a href='#' id='select-all'>select all</a>
+    <a href='#' id='deselect-all'>deselect all</a>
+    <div class="field container text-center">
+      <div class="radarChart"></div>
+      <svg id="legends" width=1500></svg>
+    </div>
+
+  </body>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+  <script src="js/radarChart.js"></script>
+  <script src="js/raderChartControler.js"></script>
+</body>
+
+</html>

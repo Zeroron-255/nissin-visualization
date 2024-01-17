@@ -1,0 +1,126 @@
+[
+     {
+          "nutrient": "熱量",
+          "value": "2700"
+     },
+     {
+          "nutrient": "たんぱく質",
+          "value": "65"
+     },
+     {
+          "nutrient": "脂質",
+          "value": "75"
+     },
+     {
+          "nutrient": "炭水化物",
+          "value": "388.125"
+     },
+     {
+          "nutrient": "食塩相当量",
+          "value": "7.5"
+     },
+     {
+          "nutrient": "ビタミンB1",
+          "value": "1.4"
+     },
+     {
+          "nutrient": "ビタミンB2",
+          "value": "1.6"
+     },
+     {
+          "nutrient": "カルシウム",
+          "value": "750"
+     },
+     {
+          "nutrient": "ナイアシン",
+          "value": "15"
+     },
+     {
+          "nutrient": "食物繊維",
+          "value": "21"
+     },
+     {
+          "nutrient": "ビタミンD",
+          "value": "8.5"
+     },
+     {
+          "nutrient": "ビタミンA",
+          "value": "900"
+     },
+     {
+          "nutrient": "ビタミンE",
+          "value": "6.0"
+     },
+     {
+          "nutrient": "ビタミンK",
+          "value": "150"
+     },
+     {
+          "nutrient": "ビタミンB6",
+          "value": "1.4"
+     },
+     {
+          "nutrient": "ビタミンB12",
+          "value": "2.4"
+     },
+     {
+          "nutrient": "葉酸",
+          "value": "240"
+     },
+     {
+          "nutrient": "パントテン酸",
+          "value": "5"
+     },
+     {
+          "nutrient": "ビオチン",
+          "value": "50"
+     },
+     {
+          "nutrient": "ビタミンC",
+          "value": "100"
+     },
+     {
+          "nutrient": "カリウム",
+          "value": "2500"
+     },
+     {
+          "nutrient": "マグネシウム",
+          "value": "370"
+     },
+     {
+          "nutrient": "リン",
+          "value": "1000"
+     },
+     {
+          "nutrient": "鉄",
+          "value": "7.5"
+     },
+     {
+          "nutrient": "亜鉛",
+          "value": "11"
+     },
+     {
+          "nutrient": "銅",
+          "value": "0.9"
+     },
+     {
+          "nutrient": "マンガン",
+          "value": "4.0"
+     },
+     {
+          "nutrient": "ヨウ素",
+          "value": "130"
+     },
+     {
+          "nutrient": "セレン",
+          "value": "30"
+     },
+     {
+          "nutrient": "クロム",
+          "value": "10"
+     },
+     {
+          "nutrient": "モリブデン",
+          "value": "30"
+     }
+]

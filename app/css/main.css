@@ -1,0 +1,10 @@
+.selectableHeader {
+  width: 500px;
+  margin: 0 auto;
+}
+.field {
+  display: flex;
+  }
+.right {
+  margin: 0 0 0 auto;
+}
