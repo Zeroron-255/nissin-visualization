@@ -13,7 +13,7 @@ Visualization application files
 
 ・prodict: information on each product obtained by scraping
 
-・nutrient: information on daily nutrient requirements
+・nutrient: information on daily nutrient requirements from "https://www.otsuka.co.jp/cmt/nutrition/1day/"
 
 # scraping
 ### contains scraping program
