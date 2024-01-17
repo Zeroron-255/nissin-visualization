@@ -1,5 +1,5 @@
 const firstRead = (callback) => {
-  jQuery.getJSON("http://localhost:50001/api/nissin",
+  jQuery.getJSON("http://localhost:50001/api/product",
     function (data) {
       information = data["_items"];
       // nutrientがないものを除外
